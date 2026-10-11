@@ -1,3 +1,4 @@
+// Week 7: Dart fundamentals exercise (variables, operators, and output)
 // Scenario: computing a student's school canteen order.
 void main() {
   // --- Part 1: Variables (int, double, String, bool) ---
