@@ -1,10 +1,9 @@
-- **Tested with:** `dart run` (no errors)
-
 # Dart Exercises
 
 - **Name:** Ronin C. Gunday
 - **Section:** 3.1 BSIT
 - **Scenario:** A program that computes a student's canteen order total and checks it against a budget.
+- **Tested with:** `dart run` (no errors)
 
 ## How to run
 
