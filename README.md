@@ -1,3 +1,5 @@
+- **Tested with:** `dart run` (no errors)
+
 # Dart Exercises
 
 - **Name:** Ronin C. Gunday
